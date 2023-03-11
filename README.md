@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on Facebook **Monitization**
 
-- 👨‍💻 All of my projects are available at Facebook [https://www.facebook.com/contact.Liton?mibextid=ZbWKwL](https://www.facebook.com/contact.Liton?mibextid=ZbWKwL)
+- 👨‍💻 All of my projects are available at Facebook 🥱
 
-- 📝 I regularly write articles on Facebook [https://www.facebook.com/contact.Liton?mibextid=ZbWKwL](https://www.facebook.com/contact.Liton?mibextid=ZbWKwL)
+- 📝 I regularly write articles on my Facebook profile.🤖
 
-- 💬 Ask me about **On Facebook**
+- 💬 Ask me about **😇**
 
 - 📫 How to reach me **contact.me.liton@gmail.com**
 
