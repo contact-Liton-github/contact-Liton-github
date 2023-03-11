@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liton</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coading" width="400" src="https://images.app.goo.gl/fw2paTXfQy51ridj9">
+<img align="right" alt="coading" src="https://images.app.goo.gl/fw2paTXfQy51ridj9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=contact-liton-github&label=Profile%20views&color=0e75b6&style=flat" alt="contact-liton-github" /> </p>
 
