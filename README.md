@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact.me.liton@gmail.com**
 
-- 📄 Know about my experiences on Facebook [https://www.facebook.com/contact.Liton?mibextid=ZbWKwL](https://www.facebook.com/contact.Liton?mibextid=ZbWKwL)
+- 📄 Know about my experiences on Facebook [https://www.facebook.com/contact.Liton](https://www.facebook.com/contact.Liton)
 
 - ⚡ Fun fact **I think I am.....🤞**
 
